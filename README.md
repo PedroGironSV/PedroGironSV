@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PedroGironSV
+- 👀 I’m interested in improve my automation process skills.
+- 🌱 I’m currently working as QA Automation Analist.
