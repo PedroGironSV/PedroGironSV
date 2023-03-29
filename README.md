@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Girón</h1>
-<h3 align="center">A passionate software QA Automation</h3>
+<h3 align="center">A passionate Software QA Automation</h3>
 
 - 🔭 I’m currently working on **REST API Automation testing project**
 
-- 💬 Ask me about **QA standards and automation tools**
+- 💬 Ask me about **Software QA standards and automation tools**
 
 - 📫 How to reach me **pedro.giron1864@gmail.com**
 
